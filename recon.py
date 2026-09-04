@@ -1,1 +1,1 @@
-print ("KALI");
+print ("KALI LINUX");
